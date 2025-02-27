@@ -1,0 +1,1 @@
+welcome to git tool,git commands is used to maintain repository fof projct 
